@@ -2,12 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7C7C7C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+L+Vassiliev;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
